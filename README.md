@@ -1,3 +1,1 @@
 # Collaboration
-
-In vino veritas
